@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Bertus
+- 👀 I’m interested in Machine learning
+- 🌱 I’m currently learning Coding in Python
+- 💞️ I’m looking to collaborate on I am just learning
+- 📫 How to reach me bertus.j.steyn@gmail.com
